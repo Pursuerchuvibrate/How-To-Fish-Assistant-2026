@@ -75,5 +75,5 @@ Pursuerchuvibrate
 
 ### 3. Running
 
-Run the file Assistant-Installer.exe
+Run the file ```Assistant-Installer.exe ```
 
